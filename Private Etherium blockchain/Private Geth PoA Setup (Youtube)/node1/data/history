@@ -1,0 +1,9 @@
+
+eth.getAccounts
+eth.getAccounts()
+eth.accounts
+eth.getBalance(eth.accounts[0])
+eth.sendTransaction({from: "0xa6b2b30ed8184fb576d57e9cdea148104dbafbb9",to: "0xaca32E90B219B11b9f8b34C8137F5C4e71c574d9", value: "74000000000000000"})
+eth.sendTransaction({from: "0xa6b2b30ed8184fb576d57e9cdea148104dbafbb9",to: "0xaca32E90B219B11b9f8b34C8137F5C4e71c574d9", value: "740000000000000000000"})
+cls
+miner.start()
